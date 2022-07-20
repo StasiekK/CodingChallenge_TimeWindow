@@ -1,6 +1,6 @@
 #Coding Challenge from https://www.youtube.com/watch?v=kbwk1Tw3OhE 10.X.2020.
 #My solution, time about 60 minutes
-
+#
 
 #sample data, 
 calendar_inter = [['9:00','10:30'],['12:00','13:00'],['16:00','18:00']]
